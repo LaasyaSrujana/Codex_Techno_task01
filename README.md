@@ -4,7 +4,7 @@ This project is about building a machine learning model to classify Iris flowers
 
  # Technologies Used:
 - Python
-- Scikit-learn
+- Scikit-learn 
 - Pandas & Matplotlib
 - Gradio (for deployment)
 
